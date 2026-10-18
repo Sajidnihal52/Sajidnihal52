@@ -83,6 +83,8 @@ Sajid.say_hi()
 
 ## 📊 Skills at a Glance
 
+> 📝 *Illustrative focus split. Edit the numbers in the Mermaid block to match your own time/strength.*
+
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'pie1':'#8A2BE2','pie2':'#4F46E5','pie3':'#06B6D4','pie4':'#10B981','pie5':'#F59E0B','pieTitleTextSize':'20px','pieSectionTextColor':'#ffffff','pieStrokeColor':'#1e1e2e'}}}%%
 pie showData title My Focus Areas
@@ -161,6 +163,8 @@ flowchart TD
   </picture>
 </p>
 
+> ⚠️ The snake needs the GitHub Action in `.github/workflows/snake.yml` (provided separately). Run it once from the **Actions** tab to generate the image.
+
 ---
 
 ## 🌟 Featured Projects
@@ -171,18 +175,23 @@ flowchart TD
 | 📊 **Data Analytics** | Data exploration, dashboards and visualization |
 | 🌐 **Web Development** | Modern, responsive websites and web apps |
 
-
-  PIN YOUR BEST REPOS: replace YOUR_REPO_NAME, then remove the comment markers.
+### 🐠 Flagship Project
 
 <p align="center">
   <a href="https://github.com/Sajidnihal52/Underwater-Marine-Organism-Classification-and-Biodiversity-Monitoring">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajidnihal52&repo=Underwater-Marine-Organism-Classification-and-Biodiversity Monitoring&theme=tokyonight&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/Sajidnihal52/Underwater-Marine-Organism-Classification-and-Biodiversity-Monitoring">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajidnihal52&repo=Underwater-Marine-Organism-Classification-and-Biodiversity-Monitoring&theme=tokyonight&hide_border=true" alt="Project 2"/>
+    <img width="70%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajidnihal52&repo=Underwater-Marine-Organism-Classification-and-Biodiversity-Monitoring&theme=tokyonight&hide_border=true&show_owner=true" alt="Underwater Marine Organism Classification and Biodiversity Monitoring"/>
   </a>
 </p>
 
+**🌊 Underwater Marine Organism Classification and Biodiversity Monitoring**
+An AI/ML project focused on classifying underwater marine organisms and supporting biodiversity monitoring.
+
+<p align="center">
+  <a href="https://github.com/Sajidnihal52/Underwater-Marine-Organism-Classification-and-Biodiversity-Monitoring">
+    <img src="https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/>
+  </a>
+  <img src="https://img.shields.io/badge/Domain-Marine%20Biology%20%2B%20AI-06B6D4?style=for-the-badge" alt="Domain"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/Sajidnihal52?tab=repositories">
@@ -217,10 +226,16 @@ mindmap
   <a href="https://github.com/Sajidnihal52">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <!-- Add more links when ready, e.g.:
-  <a href="https://www.linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  -->
+  <a href="https://www.linkedin.com/in/sajid-mahmud-700581249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sajidnihal52@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  📫 <b>Reach me at:</b> <a href="mailto:sajidnihal52@gmail.com">sajidnihal52@gmail.com</a>
 </p>
 
 <p align="center">
