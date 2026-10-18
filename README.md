@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-```python
+python
 class SajidMahmud:
     def __init__(self):
         self.role      = "Junior Data Analyst @ Veecutech Solutions Sdn Bhd (Remote)"
