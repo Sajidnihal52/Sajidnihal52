@@ -139,17 +139,24 @@ flowchart TD
   <img width="75%" src="https://streak-stats.demolab.com?user=Sajidnihal52&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sajidnihal52&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajidnihal52&theme=tokyo-night&hide_border=true&area=true&custom_title=Sajid%27s%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
+  <img src="https://ghchart.rshah.org/8A2BE2/Sajidnihal52" width="100%" alt="Contribution Chart"/>
 </p>
+
+<!--
+  Optional: original activity graph. It sometimes fails when its shared server hits GitHub's API limit.
+  Remove the comment markers to try it again later.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajidnihal52&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
+-->
+
+> 💡 These numbers will grow as I keep shipping commits, projects and analyses.
 
 ---
 
