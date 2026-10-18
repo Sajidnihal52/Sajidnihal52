@@ -175,8 +175,8 @@ flowchart TD
   PIN YOUR BEST REPOS: replace YOUR_REPO_NAME, then remove the comment markers.
 
 <p align="center">
-  <a href="https://github.com/Sajidnihal52/YOUR_REPO_NAME">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajidnihal52&repo=Deep-Learning-Framework-for-Underwater-Marine-Organism-Classification-and-Biodiversity-Monitoring &theme=tokyonight&hide_border=true" alt="Project 1"/>
+  <a href="https://github.com/Sajidnihal52/Underwater-Marine-Organism-Classification-and-Biodiversity-Monitoring">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajidnihal52&repo=Underwater-Marine-Organism-Classification-and-Biodiversity-Monitoring&theme=tokyonight&hide_border=true" alt="Project 1"/>
   </a>
   <a href="https://github.com/Sajidnihal52/YOUR_REPO_NAME_2">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajidnihal52&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2"/>
