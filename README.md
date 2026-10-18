@@ -83,8 +83,6 @@ Sajid.say_hi()
 
 ## 📊 Skills at a Glance
 
-> 📝 *Illustrative focus split. Edit the numbers in the Mermaid block to match your own time/strength.*
-
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'pie1':'#8A2BE2','pie2':'#4F46E5','pie3':'#06B6D4','pie4':'#10B981','pie5':'#F59E0B','pieTitleTextSize':'20px','pieSectionTextColor':'#ffffff','pieStrokeColor':'#1e1e2e'}}}%%
 pie showData title My Focus Areas
@@ -163,8 +161,6 @@ flowchart TD
   </picture>
 </p>
 
-> ⚠️ The snake needs the GitHub Action in `.github/workflows/snake.yml` (provided separately). Run it once from the **Actions** tab to generate the image.
-
 ---
 
 ## 🌟 Featured Projects
@@ -175,18 +171,18 @@ flowchart TD
 | 📊 **Data Analytics** | Data exploration, dashboards and visualization |
 | 🌐 **Web Development** | Modern, responsive websites and web apps |
 
-<!--
+
   PIN YOUR BEST REPOS: replace YOUR_REPO_NAME, then remove the comment markers.
 
 <p align="center">
   <a href="https://github.com/Sajidnihal52/YOUR_REPO_NAME">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajidnihal52&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" alt="Project 1"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajidnihal52&repo=Deep-Learning-Framework-for-Underwater-Marine-Organism-Classification-and-Biodiversity-Monitoring &theme=tokyonight&hide_border=true" alt="Project 1"/>
   </a>
   <a href="https://github.com/Sajidnihal52/YOUR_REPO_NAME_2">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajidnihal52&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2"/>
   </a>
 </p>
--->
+
 
 <p align="center">
   <a href="https://github.com/Sajidnihal52?tab=repositories">
