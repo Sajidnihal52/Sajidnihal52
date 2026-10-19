@@ -40,14 +40,15 @@ class SajidMahmud:
     def say_hi(self):
         print("Thanks for stopping by! Let's build something great together 🚀")
 
-Sajid = SajidMahmud()
-Sajid.say_hi()
+
+sajid = SajidMahmud()
+sajid.say_hi()
 ```
 
-- 📊 Working as a **Junior Data Analyst** at Veecutech Solutions Sdn Bhd (Remote)
-- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
-- 🌐 Developing **modern and responsive** web applications
-- 📈 Turning raw data into **meaningful insights**
+- 📊 Working as a Junior Data Analyst at **Veecutech Solutions Sdn Bhd** (Remote)
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 🌐 Developing modern and responsive web applications
+- 📈 Turning raw data into meaningful insights
 - 🚀 Continuously learning and building innovative projects
 
 ---
@@ -69,13 +70,13 @@ Sajid.say_hi()
 <br>
 
 | Category | Tools |
-|---|---|
-| 🐍 **Languages** | Python · Java · JavaScript · SQL · HTML · CSS |
-| 📊 **Data & Analytics** | Pandas · NumPy · Matplotlib · Seaborn · Excel |
-| 🤖 **AI / ML** | Scikit-learn · Model Evaluation · Feature Engineering |
-| 🌐 **Web** | React · Node.js · Responsive Design |
-| 🗄️ **Databases** | MySQL |
-| 🧰 **Tools** | Git · GitHub · VS Code · Jupyter |
+| --- | --- |
+| 🐍 Languages | Python · Java · JavaScript · SQL · HTML · CSS |
+| 📊 Data & Analytics | Pandas · NumPy · Matplotlib · Seaborn · Excel |
+| 🤖 AI / ML | Scikit-learn · Model Evaluation · Feature Engineering |
+| 🌐 Web | React · Node.js · Responsive Design |
+| 🗄️ Databases | MySQL |
+| 🧰 Tools | Git · GitHub · VS Code · Jupyter |
 
 </details>
 
@@ -83,10 +84,8 @@ Sajid.say_hi()
 
 ## 📊 Skills at a Glance
 
-> 📝 *Illustrative focus split. Edit the numbers in the Mermaid block to match your own time/strength.*
-
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'pie1':'#8A2BE2','pie2':'#4F46E5','pie3':'#06B6D4','pie4':'#10B981','pie5':'#F59E0B','pieTitleTextSize':'20px','pieSectionTextColor':'#ffffff','pieStrokeColor':'#1e1e2e'}}}%%
+%%{init: {'theme':'base','themeVariables':{'pie1':'#8A2BE2','pie2':'#4F46E5','pie3':'#06B6D4','pie4':'#10B981','pieTitleTextSize':'20px','pieSectionTextColor':'#ffffff','pieStrokeColor':'#1e1e2e'}}}%%
 pie showData title My Focus Areas
     "Data Analysis" : 35
     "Machine Learning" : 25
@@ -101,12 +100,12 @@ pie showData title My Focus Areas
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#8A2BE2','primaryTextColor':'#ffffff','primaryBorderColor':'#6D1FBF','lineColor':'#8A2BE2','secondaryColor':'#4F46E5','tertiaryColor':'#1e1e2e'}}}%%
 flowchart LR
-    A[📥 Collect Data] --> B[🧹 Clean & Prepare]
-    B --> C[🔍 Explore - EDA]
-    C --> D[🤖 Model / Analyze]
-    D --> E[📊 Visualize]
-    E --> F[💡 Insights & Decisions]
-    F -.feedback.-> A
+    A["📥 Collect Data"] --> B["🧹 Clean & Prepare"]
+    B --> C["🔍 Explore (EDA)"]
+    C --> D["🤖 Model / Analyze"]
+    D --> E["📊 Visualize"]
+    E --> F["💡 Insights & Decisions"]
+    F -. feedback .-> A
 ```
 
 ---
@@ -116,13 +115,13 @@ flowchart LR
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#8A2BE2','primaryTextColor':'#ffffff','lineColor':'#8A2BE2'}}}%%
 flowchart TD
-    A([🎓 Learn the Fundamentals]) --> B([🐍 Python & SQL])
-    B --> C([📊 Data Analysis & Visualization])
-    C --> D([🤖 Machine Learning])
-    C --> E([🌐 Web Development])
-    D --> F([🧠 Deep Learning - Next])
-    E --> G([⚙️ Full-Stack Apps - Next])
-    F --> H([🚀 AI-Powered Products])
+    A(["🎓 Learn the Fundamentals"]) --> B(["🐍 Python & SQL"])
+    B --> C(["📊 Data Analysis & Visualization"])
+    C --> D(["🤖 Machine Learning"])
+    C --> E(["🌐 Web Development"])
+    D --> F(["🧠 Deep Learning (Next)"])
+    E --> G(["⚙️ Full-Stack Apps (Next)"])
+    F --> H(["🚀 AI-Powered Products"])
     G --> H
 ```
 
@@ -147,15 +146,6 @@ flowchart TD
   <img src="https://ghchart.rshah.org/8A2BE2/Sajidnihal52" width="100%" alt="Contribution Chart"/>
 </p>
 
-<!--
-  Optional: original activity graph. It sometimes fails when its shared server hits GitHub's API limit.
-  Remove the comment markers to try it again later.
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajidnihal52&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
--->
-
 > 💡 These numbers will grow as I keep shipping commits, projects and analyses.
 
 ---
@@ -170,17 +160,20 @@ flowchart TD
   </picture>
 </p>
 
-> ⚠️ The snake needs the GitHub Action in `.github/workflows/snake.yml` (provided separately). Run it once from the **Actions** tab to generate the image.
+<!--
+  The snake needs the workflow in .github/workflows/snake.yml.
+  Run it once from the Actions tab to generate the "output" branch and images.
+-->
 
 ---
 
 ## 🌟 Featured Projects
 
 | Area | What I Build |
-|---|---|
-| 🤖 **Machine Learning** | Predictive models and AI projects |
-| 📊 **Data Analytics** | Data exploration, dashboards and visualization |
-| 🌐 **Web Development** | Modern, responsive websites and web apps |
+| --- | --- |
+| 🤖 Machine Learning | Predictive models and AI projects |
+| 📊 Data Analytics | Data exploration, dashboards and visualization |
+| 🌐 Web Development | Modern, responsive websites and web apps |
 
 ### 🐠 Flagship Project
 
@@ -208,6 +201,40 @@ An AI/ML project focused on classifying underwater marine organisms and supporti
 
 ---
 
+## 🏅 Achievements & Recognition
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TechnoXian-2024-8A2BE2?style=for-the-badge" alt="TechnoXian 2024"/>
+  <img src="https://img.shields.io/badge/International-Round-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white" alt="International round"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/🌍-International-8A2BE2?style=flat-square" alt="International"/>
+    </td>
+    <td>
+      <b>TechnoXian 2024 — International Round</b><br/>
+      Earned a Green Card after qualifying through the TechnoXian Bangladesh National Round 2024.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/🤖-Robotics-06B6D4?style=flat-square" alt="Robotics"/>
+    </td>
+    <td>
+      <b>Soccer Bot — Runner-up</b><br/>
+      Achieved runner-up recognition in the Soccer Bot competition.
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Driven by curiosity, engineering, innovation, and continuous learning. 🚀</i>
+</p>
+
+---
+
 ## 🎯 Currently Working On
 
 ```mermaid
@@ -216,7 +243,7 @@ mindmap
   root((Sajid))
     Data
       Dashboards
-      EDA & Storytelling
+      EDA and Storytelling
     AI / ML
       Predictive Models
       Deep Learning
